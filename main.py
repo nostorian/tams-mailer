@@ -678,4 +678,4 @@ if __name__ == "__main__":
     app = QApplication([])
     window = EmailWindow()
     window.show()
-    app.exec_()
+    app.exec_()print(this is for experiential learning 8 unit 2 assignment)
